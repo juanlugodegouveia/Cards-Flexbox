@@ -1,8 +1,8 @@
-# Cards Con Flexbox
+# Cards With Flexbox
 
-Plantilla de Cards creada con Flexbox, un diseño con la intención de dar una idea de como podrían realizarlo y ahorrar tiempo.
+Cards template created with Flexbox, a design with the intention of giving an idea of how they could do it and save time.
 
-Vista: https://juanlugodegouveia.github.io/Cards-Flexbox/.
+View: https://juanlugodegouveia.github.io/Cards-Flexbox/.
 
 ## Copyright
 
